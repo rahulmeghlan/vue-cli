@@ -1,5 +1,5 @@
 {
-  "name": "vue-cli",
+  "name": "@vue/cli-service",
   "version": "0.0.1",
   "private": true,
   "workspaces": [
