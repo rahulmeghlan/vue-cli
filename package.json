@@ -1,4 +1,5 @@
 {
+  "name": "Vue CLI",
   "private": true,
   "workspaces": [
     "packages/@vue/*",
